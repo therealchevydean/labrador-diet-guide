@@ -1,0 +1,248 @@
+{
+  "breed": "Labrador Retriever",
+  "overview": {
+    "description": "Labrador Retrievers are America's most popular dog breed, known for their friendly, active, and outgoing personalities. However, they possess a genetic predisposition to obesity due to a mutation in the POMC gene, which affects their regulation of appetite and satiety.",
+    "keyHealthRisks": [
+      "Obesity and weight gain",
+      "Hip and elbow dysplasia",
+      "Gastric Dilatation-Volvulus (GDV / Bloat)",
+      "Progressive Retinal Atrophy (PRA)",
+      "Exercise-Induced Collapse (EIC)"
+    ],
+    "metabolicTrait": "High genetic predisposition to constant hunger (lack of natural feeling of fullness)."
+  },
+  "nutritionalNeeds": {
+    "lifeStages": {
+      "puppy": {
+        "ageRange": "8 weeks to 12-15 months",
+        "proteinPercentage": "22% - 32%",
+        "fatPercentage": "10% - 15%",
+        "calciumPhosphorusRatio": "1.2:1 to 1.5:1 (critical for controlled large-breed bone growth)",
+        "feedingFrequency": "3 to 4 meals per day until 6 months, then 2 meals."
+      },
+      "adult": {
+        "ageRange": "1 to 7 years",
+        "proteinPercentage": "18% - 26%",
+        "fatPercentage": "10% - 14% (lower fat for neutered/spayed or less active adults)",
+        "caloriesPerDay": "1200 - 1600 kcal (depending on activity level and weight, e.g., ~30 kcal per lb for moderately active adults)",
+        "feedingFrequency": "2 meals per day to prevent gorging and reduce bloat risk."
+      },
+      "senior": {
+        "ageRange": "7+ years",
+        "proteinPercentage": "20% - 26% (high quality, highly digestible to maintain muscle mass)",
+        "fatPercentage": "8% - 12% (reduced calories to prevent weight gain in lower activity)",
+        "specialAdditions": "Glucosamine, Chondroitin, Omega-3 Fatty Acids (EPA/DHA), L-Carnitine."
+      }
+    }
+  },
+  "safeFoods": [
+    {
+      "category": "Vegetables",
+      "items": [
+        {
+          "name": "Carrots",
+          "benefits": "Low calorie, high in beta-carotene and fiber; great for dental health when raw.",
+          "servingTip": "Wash thoroughly and cut into bite-sized pieces to prevent choking."
+        },
+        {
+          "name": "Green Beans",
+          "benefits": "Extremely low in calorie and highly filling (ideal for weight-loss diets for hungry Labs).",
+          "servingTip": "Fresh, steamed, or plain canned (no added salt/sodium)."
+        },
+        {
+          "name": "Pumpkin",
+          "benefits": "Pure canned pumpkin is excellent for digestive health, firming stools, and providing soluble fiber.",
+          "servingTip": "Use 100% pure pumpkin puree, NOT pumpkin pie mix with spices and sugar."
+        },
+        {
+          "name": "Sweet Potatoes",
+          "benefits": "Rich in dietary fiber, vitamins A, B6, and C.",
+          "servingTip": "Must be cooked thoroughly (baked or boiled) and served plain without butter or skin."
+        },
+        {
+          "name": "Cucumbers",
+          "benefits": "Low calorie, high water content, excellent hydrating snack for summer.",
+          "servingTip": "Slice into rounds; peel if desired."
+        },
+        {
+          "name": "Zucchini",
+          "benefits": "Safe, low calorie, contains vitamins C and K.",
+          "servingTip": "Cooked or raw in moderation."
+        }
+      ]
+    },
+    {
+      "category": "Fruits",
+      "items": [
+        {
+          "name": "Blueberries",
+          "benefits": "Powerhouse of antioxidants, vitamins C and K, and fiber.",
+          "servingTip": "Fresh or frozen as a crunchy treat."
+        },
+        {
+          "name": "Apples",
+          "benefits": "Good source of vitamins A and C, and dietary fiber.",
+          "servingTip": "Remove core and seeds entirely (cyanide risk in seeds); slice into wedges."
+        },
+        {
+          "name": "Watermelon",
+          "benefits": "Hydrating, rich in lycopene and vitamins A and C.",
+          "servingTip": "Remove rind and all black seeds completely."
+        },
+        {
+          "name": "Bananas",
+          "benefits": "High in potassium, vitamins, biotin, and fiber.",
+          "servingTip": "Give in moderation due to high natural sugar content."
+        },
+        {
+          "name": "Strawberries",
+          "benefits": "Contain fiber, vitamin C, and an enzyme that can help whiten teeth.",
+          "servingTip": "Remove stems and wash thoroughly; cut in half for smaller dogs."
+        }
+      ]
+    },
+    {
+      "category": "Proteins & Dairy",
+      "items": [
+        {
+          "name": "Chicken Breast",
+          "benefits": "Lean source of essential amino acids and protein.",
+          "servingTip": "Must be boiled or baked completely plain, boneless, and skinless (no seasonings, onions, or garlic)."
+        },
+        {
+          "name": "Turkey",
+          "benefits": "Lean protein alternative.",
+          "servingTip": "Plain, lean, fully cooked, no skin and no bones."
+        },
+        {
+          "name": "Eggs",
+          "benefits": "Complete protein source packed with fatty acids and vitamins.",
+          "servingTip": "Cooked thoroughly (scrambled or boiled) without oil, butter, or salt. Avoid raw egg whites regularly due to biotin binding."
+        },
+        {
+          "name": "Plain Greek Yogurt",
+          "benefits": "Rich in probiotics and calcium for gut health.",
+          "servingTip": "Unsweetened, plain, low-fat or fat-free. Ensure NO artificial sweeteners like xylitol are present."
+        },
+        {
+          "name": "Salmon",
+          "benefits": "Exceptional source of Omega-3 fatty acids for skin, coat, and joint health.",
+          "servingTip": "Must be fully cooked; never feed raw salmon due to fatal salmon poisoning disease."
+        }
+      ]
+    },
+    {
+      "category": "Grains",
+      "items": [
+        {
+          "name": "Rice (White or Brown)",
+          "benefits": "Easily digestible carbohydrate; great for upset stomachs.",
+          "servingTip": "Plainly boiled without salt or butter."
+        },
+        {
+          "name": "Oatmeal",
+          "benefits": "Good source of soluble fiber, beneficial for dogs with digestive issues.",
+          "servingTip": "Cooked with water or plain milk (avoid instant flavored oatmeal packets)."
+        },
+        {
+          "name": "Quinoa",
+          "benefits": "High protein pseudo-grain, complete amino acid profile.",
+          "servingTip": "Rinsed and thoroughly cooked."
+        }
+      ]
+    }
+  ],
+  "toxicFoods": [
+    {
+      "name": "Chocolate",
+      "toxicityLevel": "Severe / Fatal",
+      "toxin": "Theobromine and Caffeine",
+      "symptoms": "Vomiting, diarrhea, excessive thirst, rapid heart rate, seizures, heart failure, death."
+    },
+    {
+      "name": "Grapes and Raisins",
+      "toxicityLevel": "Severe / Fatal",
+      "toxin": "Unknown compound (causes acute kidney failure)",
+      "symptoms": "Vomiting, lethargy, loss of appetite, abdominal pain, sudden kidney failure and lack of urination."
+    },
+    {
+      "name": "Onions, Garlic, Chives, and Leeks",
+      "toxicityLevel": "Moderate to High",
+      "toxin": "Organosulfoxides (causes oxidative damage to red blood cells)",
+      "symptoms": "Weakness, lethargy, pale gums, elevated heart rate, red/brown urine, hemolytic anemia."
+    },
+    {
+      "name": "Xylitol (Artificial Sweetener)",
+      "toxicityLevel": "Extreme / Rapidly Fatal",
+      "toxin": "Xylitol (triggers massive insulin release)",
+      "symptoms": "Rapid drop in blood sugar (hypoglycemia), vomiting, weakness, staggering, liver failure, seizures within 15-60 minutes."
+    },
+    {
+      "name": "Macadamia Nuts",
+      "toxicityLevel": "Moderate",
+      "toxin": "Unknown toxin affecting neuromuscular system",
+      "symptoms": "Weakness in hind limbs, tremors, elevated body temperature, vomiting, joint stiffness."
+    },
+    {
+      "name": "Alcohol",
+      "toxicityLevel": "Severe / Fatal",
+      "toxin": "Ethanol",
+      "symptoms": "Vomiting, diarrhea, central nervous system depression, coordination loss, breathing difficulties, coma."
+    },
+    {
+      "name": "Avocado",
+      "toxicityLevel": "Low to Moderate",
+      "toxin": "Persin (found in fruit, pit, leaves, and bark)",
+      "symptoms": "Vomiting, diarrhea, myocardial damage (especially toxic to birds/horses, but pits pose severe choking/obstruction hazard for Labs)."
+    },
+    {
+      "name": "Coffee, Tea, and Caffeine",
+      "toxicityLevel": "Severe",
+      "toxin": "Methylxanthines / Caffeine",
+      "symptoms": "Restlessness, rapid breathing, heart palpitations, muscle tremors, seizures."
+    },
+    {
+      "name": "Cooked Bones",
+      "toxicityLevel": "High (Physical Hazard)",
+      "toxin": "Splintering risk",
+      "symptoms": "Internal lacerations, choking, gastrointestinal perforation, severe bowel obstruction."
+    },
+    {
+      "name": "Yeast Dough",
+      "toxicityLevel": "High",
+      "toxin": "Ethanol production and gas expansion in stomach",
+      "symptoms": "Severe abdominal bloating (GDV risk), staggering, disorientation, alcohol poisoning."
+    }
+  ],
+  "feedingGuidelines": {
+    "weightManagement": [
+      "Use slow-feeder bowls or puzzle toys to slow down voracious eaters.",
+      "Substitute up to 10-20% of regular kibble with steamed green beans or pumpkin for a filling, low-calorie meal volume.",
+      "Strictly measure meals using a measuring cup rather than free-feeding.",
+      "Monitor body condition score (BCS) regularly: Labs should have a clear waistline when viewed from above and a tuck-up at the abdomen."
+    ],
+    "gdvPrevention": [
+      "Avoid strenuous exercise 1 hour before and 1 hour after meals.",
+      "Split daily food into two separate meals.",
+      "Prevent rapid gulping of food and water."
+    ]
+  },
+  "recommendedSupplements": [
+    {
+      "name": "Glucosamine and Chondroitin Sulfate",
+      "purpose": "Supports joint cartilage health, cushioning, and mobility, crucial for large breeds prone to hip dysplasia."
+    },
+    {
+      "name": "Omega-3 Fatty Acids (Fish Oil - EPA/DHA)",
+      "purpose": "Reduces systemic inflammation, supports cardiovascular health, promotes a shiny double coat, and aids cognitive function."
+    },
+    {
+      "name": "Probiotics & Prebiotics",
+      "purpose": "Enhances gut microbiome balance, improves nutrient absorption, and boosts immune response."
+    },
+    {
+      "name": "L-Carnitine",
+      "purpose": "Supports fat metabolism and lean muscle maintenance in weight-management diets."
+    }
+  ]
+}
