@@ -1,0 +1,427 @@
+[
+  {
+    "slug": "can-labradors-eat-carrots",
+    "food": "Carrots",
+    "isSafe": true,
+    "category": "Vegetables",
+    "shortAnswer": "Yes, Labradors can eat Carrots. Low calorie, high in beta-carotene and fiber; great for dental health when raw.",
+    "longExplanation": "Carrots provides great nutritional value for Labrador Retrievers. Low calorie, high in beta-carotene and fiber; great for dental health when raw. Wash thoroughly and cut into bite-sized pieces to prevent choking.",
+    "servingSize": "Wash thoroughly and cut into bite-sized pieces to prevent choking.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Low calorie, high in beta-carotene and fiber; great for dental health when raw."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-green-beans",
+    "food": "Green Beans",
+    "isSafe": true,
+    "category": "Vegetables",
+    "shortAnswer": "Yes, Labradors can eat Green Beans. Extremely low in calorie and highly filling (ideal for weight-loss diets for hungry Labs).",
+    "longExplanation": "Green Beans provides great nutritional value for Labrador Retrievers. Extremely low in calorie and highly filling (ideal for weight-loss diets for hungry Labs). Fresh, steamed, or plain canned (no added salt/sodium).",
+    "servingSize": "Fresh, steamed, or plain canned (no added salt/sodium).",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Extremely low in calorie and highly filling (ideal for weight-loss diets for hungry Labs)."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-pumpkin",
+    "food": "Pumpkin",
+    "isSafe": true,
+    "category": "Vegetables",
+    "shortAnswer": "Yes, Labradors can eat Pumpkin. Pure canned pumpkin is excellent for digestive health, firming stools, and providing soluble fiber.",
+    "longExplanation": "Pumpkin provides great nutritional value for Labrador Retrievers. Pure canned pumpkin is excellent for digestive health, firming stools, and providing soluble fiber. Use 100% pure pumpkin puree, NOT pumpkin pie mix with spices and sugar.",
+    "servingSize": "Use 100% pure pumpkin puree, NOT pumpkin pie mix with spices and sugar.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Pure canned pumpkin is excellent for digestive health, firming stools, and providing soluble fiber."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-sweet-potatoes",
+    "food": "Sweet Potatoes",
+    "isSafe": true,
+    "category": "Vegetables",
+    "shortAnswer": "Yes, Labradors can eat Sweet Potatoes. Rich in dietary fiber, vitamins A, B6, and C.",
+    "longExplanation": "Sweet Potatoes provides great nutritional value for Labrador Retrievers. Rich in dietary fiber, vitamins A, B6, and C. Must be cooked thoroughly (baked or boiled) and served plain without butter or skin.",
+    "servingSize": "Must be cooked thoroughly (baked or boiled) and served plain without butter or skin.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Rich in dietary fiber, vitamins A, B6, and C."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-cucumbers",
+    "food": "Cucumbers",
+    "isSafe": true,
+    "category": "Vegetables",
+    "shortAnswer": "Yes, Labradors can eat Cucumbers. Low calorie, high water content, excellent hydrating snack for summer.",
+    "longExplanation": "Cucumbers provides great nutritional value for Labrador Retrievers. Low calorie, high water content, excellent hydrating snack for summer. Slice into rounds; peel if desired.",
+    "servingSize": "Slice into rounds; peel if desired.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Low calorie, high water content, excellent hydrating snack for summer."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-zucchini",
+    "food": "Zucchini",
+    "isSafe": true,
+    "category": "Vegetables",
+    "shortAnswer": "Yes, Labradors can eat Zucchini. Safe, low calorie, contains vitamins C and K.",
+    "longExplanation": "Zucchini provides great nutritional value for Labrador Retrievers. Safe, low calorie, contains vitamins C and K. Cooked or raw in moderation.",
+    "servingSize": "Cooked or raw in moderation.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Safe, low calorie, contains vitamins C and K."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-blueberries",
+    "food": "Blueberries",
+    "isSafe": true,
+    "category": "Fruits",
+    "shortAnswer": "Yes, Labradors can eat Blueberries. Powerhouse of antioxidants, vitamins C and K, and fiber.",
+    "longExplanation": "Blueberries provides great nutritional value for Labrador Retrievers. Powerhouse of antioxidants, vitamins C and K, and fiber. Fresh or frozen as a crunchy treat.",
+    "servingSize": "Fresh or frozen as a crunchy treat.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Powerhouse of antioxidants, vitamins C and K, and fiber."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-apples",
+    "food": "Apples",
+    "isSafe": true,
+    "category": "Fruits",
+    "shortAnswer": "Yes, Labradors can eat Apples. Good source of vitamins A and C, and dietary fiber.",
+    "longExplanation": "Apples provides great nutritional value for Labrador Retrievers. Good source of vitamins A and C, and dietary fiber. Remove core and seeds entirely (cyanide risk in seeds); slice into wedges.",
+    "servingSize": "Remove core and seeds entirely (cyanide risk in seeds); slice into wedges.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Good source of vitamins A and C, and dietary fiber."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-watermelon",
+    "food": "Watermelon",
+    "isSafe": true,
+    "category": "Fruits",
+    "shortAnswer": "Yes, Labradors can eat Watermelon. Hydrating, rich in lycopene and vitamins A and C.",
+    "longExplanation": "Watermelon provides great nutritional value for Labrador Retrievers. Hydrating, rich in lycopene and vitamins A and C. Remove rind and all black seeds completely.",
+    "servingSize": "Remove rind and all black seeds completely.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Hydrating, rich in lycopene and vitamins A and C."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-bananas",
+    "food": "Bananas",
+    "isSafe": true,
+    "category": "Fruits",
+    "shortAnswer": "Yes, Labradors can eat Bananas. High in potassium, vitamins, biotin, and fiber.",
+    "longExplanation": "Bananas provides great nutritional value for Labrador Retrievers. High in potassium, vitamins, biotin, and fiber. Give in moderation due to high natural sugar content.",
+    "servingSize": "Give in moderation due to high natural sugar content.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "High in potassium, vitamins, biotin, and fiber."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-strawberries",
+    "food": "Strawberries",
+    "isSafe": true,
+    "category": "Fruits",
+    "shortAnswer": "Yes, Labradors can eat Strawberries. Contain fiber, vitamin C, and an enzyme that can help whiten teeth.",
+    "longExplanation": "Strawberries provides great nutritional value for Labrador Retrievers. Contain fiber, vitamin C, and an enzyme that can help whiten teeth. Remove stems and wash thoroughly; cut in half for smaller dogs.",
+    "servingSize": "Remove stems and wash thoroughly; cut in half for smaller dogs.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Contain fiber, vitamin C, and an enzyme that can help whiten teeth."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-chicken-breast",
+    "food": "Chicken Breast",
+    "isSafe": true,
+    "category": "Proteins & Dairy",
+    "shortAnswer": "Yes, Labradors can eat Chicken Breast. Lean source of essential amino acids and protein.",
+    "longExplanation": "Chicken Breast provides great nutritional value for Labrador Retrievers. Lean source of essential amino acids and protein. Must be boiled or baked completely plain, boneless, and skinless (no seasonings, onions, or garlic).",
+    "servingSize": "Must be boiled or baked completely plain, boneless, and skinless (no seasonings, onions, or garlic).",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Lean source of essential amino acids and protein."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-turkey",
+    "food": "Turkey",
+    "isSafe": true,
+    "category": "Proteins & Dairy",
+    "shortAnswer": "Yes, Labradors can eat Turkey. Lean protein alternative.",
+    "longExplanation": "Turkey provides great nutritional value for Labrador Retrievers. Lean protein alternative. Plain, lean, fully cooked, no skin and no bones.",
+    "servingSize": "Plain, lean, fully cooked, no skin and no bones.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Lean protein alternative."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-eggs",
+    "food": "Eggs",
+    "isSafe": true,
+    "category": "Proteins & Dairy",
+    "shortAnswer": "Yes, Labradors can eat Eggs. Complete protein source packed with fatty acids and vitamins.",
+    "longExplanation": "Eggs provides great nutritional value for Labrador Retrievers. Complete protein source packed with fatty acids and vitamins. Cooked thoroughly (scrambled or boiled) without oil, butter, or salt. Avoid raw egg whites regularly due to biotin binding.",
+    "servingSize": "Cooked thoroughly (scrambled or boiled) without oil, butter, or salt. Avoid raw egg whites regularly due to biotin binding.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Complete protein source packed with fatty acids and vitamins."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-plain-greek-yogurt",
+    "food": "Plain Greek Yogurt",
+    "isSafe": true,
+    "category": "Proteins & Dairy",
+    "shortAnswer": "Yes, Labradors can eat Plain Greek Yogurt. Rich in probiotics and calcium for gut health.",
+    "longExplanation": "Plain Greek Yogurt provides great nutritional value for Labrador Retrievers. Rich in probiotics and calcium for gut health. Unsweetened, plain, low-fat or fat-free. Ensure NO artificial sweeteners like xylitol are present.",
+    "servingSize": "Unsweetened, plain, low-fat or fat-free. Ensure NO artificial sweeteners like xylitol are present.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Rich in probiotics and calcium for gut health."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-salmon",
+    "food": "Salmon",
+    "isSafe": true,
+    "category": "Proteins & Dairy",
+    "shortAnswer": "Yes, Labradors can eat Salmon. Exceptional source of Omega-3 fatty acids for skin, coat, and joint health.",
+    "longExplanation": "Salmon provides great nutritional value for Labrador Retrievers. Exceptional source of Omega-3 fatty acids for skin, coat, and joint health. Must be fully cooked; never feed raw salmon due to fatal salmon poisoning disease.",
+    "servingSize": "Must be fully cooked; never feed raw salmon due to fatal salmon poisoning disease.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Exceptional source of Omega-3 fatty acids for skin, coat, and joint health."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-rice-white-or-brown",
+    "food": "Rice (White or Brown)",
+    "isSafe": true,
+    "category": "Grains",
+    "shortAnswer": "Yes, Labradors can eat Rice (White or Brown). Easily digestible carbohydrate; great for upset stomachs.",
+    "longExplanation": "Rice (White or Brown) provides great nutritional value for Labrador Retrievers. Easily digestible carbohydrate; great for upset stomachs. Plainly boiled without salt or butter.",
+    "servingSize": "Plainly boiled without salt or butter.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Easily digestible carbohydrate; great for upset stomachs."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-oatmeal",
+    "food": "Oatmeal",
+    "isSafe": true,
+    "category": "Grains",
+    "shortAnswer": "Yes, Labradors can eat Oatmeal. Good source of soluble fiber, beneficial for dogs with digestive issues.",
+    "longExplanation": "Oatmeal provides great nutritional value for Labrador Retrievers. Good source of soluble fiber, beneficial for dogs with digestive issues. Cooked with water or plain milk (avoid instant flavored oatmeal packets).",
+    "servingSize": "Cooked with water or plain milk (avoid instant flavored oatmeal packets).",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "Good source of soluble fiber, beneficial for dogs with digestive issues."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-quinoa",
+    "food": "Quinoa",
+    "isSafe": true,
+    "category": "Grains",
+    "shortAnswer": "Yes, Labradors can eat Quinoa. High protein pseudo-grain, complete amino acid profile.",
+    "longExplanation": "Quinoa provides great nutritional value for Labrador Retrievers. High protein pseudo-grain, complete amino acid profile. Rinsed and thoroughly cooked.",
+    "servingSize": "Rinsed and thoroughly cooked.",
+    "risks": [
+      "Overfeeding may cause digestive upset or excess calories in Labs prone to obesity."
+    ],
+    "benefits": [
+      "High protein pseudo-grain, complete amino acid profile."
+    ]
+  },
+  {
+    "slug": "can-labradors-eat-chocolate",
+    "food": "Chocolate",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Chocolate. Severity: Severe / Fatal.",
+    "longExplanation": "Chocolate is strictly dangerous for Labrador Retrievers. Toxin: Theobromine and Caffeine. Symptoms include: Vomiting, diarrhea, excessive thirst, rapid heart rate, seizures, heart failure, death.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Theobromine and Caffeine",
+      "Symptoms: Vomiting, diarrhea, excessive thirst, rapid heart rate, seizures, heart failure, death."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-grapes-and-raisins",
+    "food": "Grapes and Raisins",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Grapes and Raisins. Severity: Severe / Fatal.",
+    "longExplanation": "Grapes and Raisins is strictly dangerous for Labrador Retrievers. Toxin: Unknown compound (causes acute kidney failure). Symptoms include: Vomiting, lethargy, loss of appetite, abdominal pain, sudden kidney failure and lack of urination.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Unknown compound (causes acute kidney failure)",
+      "Symptoms: Vomiting, lethargy, loss of appetite, abdominal pain, sudden kidney failure and lack of urination."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-onions-garlic-chives-and-leeks",
+    "food": "Onions, Garlic, Chives, and Leeks",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Onions, Garlic, Chives, and Leeks. Severity: Moderate to High.",
+    "longExplanation": "Onions, Garlic, Chives, and Leeks is strictly dangerous for Labrador Retrievers. Toxin: Organosulfoxides (causes oxidative damage to red blood cells). Symptoms include: Weakness, lethargy, pale gums, elevated heart rate, red/brown urine, hemolytic anemia.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Organosulfoxides (causes oxidative damage to red blood cells)",
+      "Symptoms: Weakness, lethargy, pale gums, elevated heart rate, red/brown urine, hemolytic anemia."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-xylitol-artificial-sweetener",
+    "food": "Xylitol (Artificial Sweetener)",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Xylitol (Artificial Sweetener). Severity: Extreme / Rapidly Fatal.",
+    "longExplanation": "Xylitol (Artificial Sweetener) is strictly dangerous for Labrador Retrievers. Toxin: Xylitol (triggers massive insulin release). Symptoms include: Rapid drop in blood sugar (hypoglycemia), vomiting, weakness, staggering, liver failure, seizures within 15-60 minutes.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Xylitol (triggers massive insulin release)",
+      "Symptoms: Rapid drop in blood sugar (hypoglycemia), vomiting, weakness, staggering, liver failure, seizures within 15-60 minutes."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-macadamia-nuts",
+    "food": "Macadamia Nuts",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Macadamia Nuts. Severity: Moderate.",
+    "longExplanation": "Macadamia Nuts is strictly dangerous for Labrador Retrievers. Toxin: Unknown toxin affecting neuromuscular system. Symptoms include: Weakness in hind limbs, tremors, elevated body temperature, vomiting, joint stiffness.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Unknown toxin affecting neuromuscular system",
+      "Symptoms: Weakness in hind limbs, tremors, elevated body temperature, vomiting, joint stiffness."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-alcohol",
+    "food": "Alcohol",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Alcohol. Severity: Severe / Fatal.",
+    "longExplanation": "Alcohol is strictly dangerous for Labrador Retrievers. Toxin: Ethanol. Symptoms include: Vomiting, diarrhea, central nervous system depression, coordination loss, breathing difficulties, coma.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Ethanol",
+      "Symptoms: Vomiting, diarrhea, central nervous system depression, coordination loss, breathing difficulties, coma."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-avocado",
+    "food": "Avocado",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Avocado. Severity: Low to Moderate.",
+    "longExplanation": "Avocado is strictly dangerous for Labrador Retrievers. Toxin: Persin (found in fruit, pit, leaves, and bark). Symptoms include: Vomiting, diarrhea, myocardial damage (especially toxic to birds/horses, but pits pose severe choking/obstruction hazard for Labs).",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Persin (found in fruit, pit, leaves, and bark)",
+      "Symptoms: Vomiting, diarrhea, myocardial damage (especially toxic to birds/horses, but pits pose severe choking/obstruction hazard for Labs)."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-coffee-tea-and-caffeine",
+    "food": "Coffee, Tea, and Caffeine",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Coffee, Tea, and Caffeine. Severity: Severe.",
+    "longExplanation": "Coffee, Tea, and Caffeine is strictly dangerous for Labrador Retrievers. Toxin: Methylxanthines / Caffeine. Symptoms include: Restlessness, rapid breathing, heart palpitations, muscle tremors, seizures.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Methylxanthines / Caffeine",
+      "Symptoms: Restlessness, rapid breathing, heart palpitations, muscle tremors, seizures."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-cooked-bones",
+    "food": "Cooked Bones",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Cooked Bones. Severity: High (Physical Hazard).",
+    "longExplanation": "Cooked Bones is strictly dangerous for Labrador Retrievers. Toxin: Splintering risk. Symptoms include: Internal lacerations, choking, gastrointestinal perforation, severe bowel obstruction.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Splintering risk",
+      "Symptoms: Internal lacerations, choking, gastrointestinal perforation, severe bowel obstruction."
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-labradors-eat-yeast-dough",
+    "food": "Yeast Dough",
+    "isSafe": false,
+    "category": "Toxic Substances",
+    "shortAnswer": "NO! Labradors must never eat Yeast Dough. Severity: High.",
+    "longExplanation": "Yeast Dough is strictly dangerous for Labrador Retrievers. Toxin: Ethanol production and gas expansion in stomach. Symptoms include: Severe abdominal bloating (GDV risk), staggering, disorientation, alcohol poisoning.",
+    "servingSize": "Zero. Do not feed.",
+    "risks": [
+      "Toxin: Ethanol production and gas expansion in stomach",
+      "Symptoms: Severe abdominal bloating (GDV risk), staggering, disorientation, alcohol poisoning."
+    ],
+    "benefits": []
+  }
+]
